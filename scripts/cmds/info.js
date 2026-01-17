@@ -68,10 +68,10 @@ module.exports = {
                     body:
 `╭─╼━━━[ 🌟 𝑩𝑶𝑻 & 𝑨𝑼𝑻𝑯𝑶𝑹 𝑰𝑵𝑭𝑶 🌟 ]━━━╾─╮
 ┃
-┃ 👤 𝑶𝒘𝒏𝒆𝒓: ${authorName}
-┃ 🤖 𝑩𝒐𝒕 𝑵𝒂𝒎𝒆: ${botName}
-┃ 🔰 𝑷𝒓𝒆𝒇𝒊𝒙: ${botPrefix}
-┃ ❤ 𝑹𝒆𝒍𝒂𝒕𝒊𝒐𝒏: ${status}
+┃ 👤 𝑶𝒘𝒏𝒆𝒓: "MR-Milon";
+┃ 🤖 𝑩𝒐𝒕 𝑵𝒂𝒎𝒆: "Your Milon";
+┃ 🔰 𝑷𝒓𝒆𝒇𝒊𝒙: "GoatBot.config.prefix}`;"
+┃ ❤ 𝑹𝒆𝒍𝒂𝒕𝒊𝒐𝒏: "single ultra pro";
 ┃
 ┃ 📆 𝑫𝒂𝒕𝒆: ${date}
 ┃ ⏰ 𝑻𝒊𝒎𝒆: ${time}
